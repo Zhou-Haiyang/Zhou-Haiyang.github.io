@@ -52,10 +52,14 @@ h3 { font-size: 1.2rem; }
 .article-meta p { margin: .35rem 0; }
 .version-note { background: var(--surface); border-left: 4px solid var(--accent); padding: 1rem 1.15rem; margin: 2rem 0; }
 .site-footer { border-top: 1px solid var(--line); color: var(--muted); padding: 1.5rem 0 2.5rem; font-size: .9rem; }
+.footer-wrap { display: flex; align-items: center; justify-content: space-between; gap: .75rem 1.25rem; flex-wrap: wrap; }
+.visitor-stats { display: inline-flex; align-items: center; flex-wrap: wrap; gap: .35rem .75rem; }
+.footer-stat { white-space: nowrap; }
 .page-heading { margin-bottom: 2rem; }
 @media (max-width: 640px) {
   body { font-size: 16px; }
   .nav-wrap { align-items: flex-start; flex-direction: column; padding-block: .9rem; }
   main { padding-top: 2.4rem; }
   .publication-card { padding: 1rem; }
+  .footer-wrap { align-items: flex-start; flex-direction: column; }
 }
