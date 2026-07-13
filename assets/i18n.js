@@ -12,8 +12,12 @@
       viewPubs: 'View publications', email: 'Email', scholar: 'Google Scholar', interests: 'Research interests',
       int1: 'Mechanisms of metal plastic forming', int2: 'Ultrasonic metal welding', int3: 'Ultrasonic metal solid-state additive manufacturing',
       selected: 'Selected publication', details: 'Article details', aam: 'AAM PDF', publisher: 'Publisher version',
-      pubEye: 'Research output', pubHeading: 'Publications', pubIntro: 'Peer-reviewed publications and openly accessible author manuscripts.',
-      detailsAbstract: 'Details and abstract', downloadAam: 'Download AAM',
+      pubEye: 'Research output', pubHeading: 'Publications', pubIntro: 'Peer-reviewed publications. Open-access files are hosted only where redistribution rights are clear.',
+      detailsAbstract: 'Details and abstract', downloadAam: 'Download AAM', openAccessPdf: 'Open-access PDF',
+      articleEyeJournal: 'Journal article', articleEyeOpenAccess: 'Open-access journal article', downloadOpenAccessPdf: 'Download open-access PDF',
+      versionTextCcBy: 'Open-access Version of Record (CC BY 4.0)', versionTextCcByNcNd: 'Open-access Version of Record (CC BY-NC-ND 4.0)',
+      versionNoticeCcBy: '<strong>Version notice.</strong> This unchanged Version of Record is redistributed under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> license.',
+      versionNoticeCcByNcNd: '<strong>Version notice.</strong> This unchanged Version of Record is redistributed for non-commercial use under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> license.',
       articleEye: 'Author Accepted Manuscript', affiliations: 'Affiliations', journal: 'Journal:', publication: 'Publication:', version: 'Version:',
       versionText: 'Author Accepted Manuscript (peer reviewed and accepted before publisher copy-editing and typesetting)',
       downloadPdf: 'Download AAM PDF', publisherRecord: 'Publisher Version of Record',
@@ -33,8 +37,12 @@
       viewPubs: '查看论文', email: '电子邮件', scholar: 'Google Scholar', interests: '研究方向',
       int1: '金属塑性成形机理', int2: '超声金属焊接', int3: '超声金属固态增材制造',
       selected: '代表性论文', details: '论文详情', aam: '作者接受稿 PDF', publisher: '出版社版本',
-      pubEye: '科研成果', pubHeading: '论文', pubIntro: '同行评议论文与可公开获取的作者稿。',
-      detailsAbstract: '详情与摘要', downloadAam: '下载作者接受稿',
+      pubEye: '科研成果', pubHeading: '论文', pubIntro: '同行评议论文。仅在再发布权利明确时提供开放获取文件。',
+      detailsAbstract: '详情与摘要', downloadAam: '下载作者接受稿', openAccessPdf: '开放获取 PDF',
+      articleEyeJournal: '期刊论文', articleEyeOpenAccess: '开放获取期刊论文', downloadOpenAccessPdf: '下载开放获取 PDF',
+      versionTextCcBy: '开放获取正式出版版本（CC BY 4.0）', versionTextCcByNcNd: '开放获取正式出版版本（CC BY-NC-ND 4.0）',
+      versionNoticeCcBy: '<strong>版本说明。</strong>此处按 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> 许可原样转载正式出版版本。',
+      versionNoticeCcByNcNd: '<strong>版本说明。</strong>此处按 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> 许可原样、非商业转载正式出版版本。',
       articleEye: '作者接受稿', affiliations: '作者单位', journal: '期刊：', publication: '出版信息：', version: '版本：',
       versionText: '作者接受稿（已经同行评议并接受，尚未经过出版社复制编辑和排版）',
       downloadPdf: '下载作者接受稿 PDF', publisherRecord: '出版社正式版本',
@@ -54,8 +62,12 @@
       viewPubs: '研究業績を見る', email: 'メール', scholar: 'Google Scholar', interests: '研究分野',
       int1: '金属塑性加工のメカニズム', int2: '超音波金属溶接', int3: '超音波金属固相積層造形',
       selected: '主要論文', details: '論文詳細', aam: '著者受理稿 PDF', publisher: '出版社版',
-      pubEye: '研究成果', pubHeading: '研究業績', pubIntro: '査読済み論文と公開可能な著者原稿。',
-      detailsAbstract: '詳細と要旨', downloadAam: '著者受理稿をダウンロード',
+      pubEye: '研究成果', pubHeading: '研究業績', pubIntro: '査読済み論文。再配布権が明確な場合にのみオープンアクセスファイルを掲載しています。',
+      detailsAbstract: '詳細と要旨', downloadAam: '著者受理稿をダウンロード', openAccessPdf: 'オープンアクセス PDF',
+      articleEyeJournal: '学術誌論文', articleEyeOpenAccess: 'オープンアクセス論文', downloadOpenAccessPdf: 'オープンアクセス PDF をダウンロード',
+      versionTextCcBy: 'オープンアクセス正式出版版（CC BY 4.0）', versionTextCcByNcNd: 'オープンアクセス正式出版版（CC BY-NC-ND 4.0）',
+      versionNoticeCcBy: '<strong>版に関する注記。</strong>変更を加えていない正式出版版を <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> ライセンスに基づき再配布しています。',
+      versionNoticeCcByNcNd: '<strong>版に関する注記。</strong>変更を加えていない正式出版版を、非営利目的で <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> ライセンスに基づき再配布しています。',
       articleEye: '著者受理稿', affiliations: '所属', journal: '掲載誌:', publication: '出版情報:', version: '版:',
       versionText: '著者受理稿（査読・受理後、出版社によるコピー編集と組版前の原稿）',
       downloadPdf: '著者受理稿 PDF をダウンロード', publisherRecord: '正式出版版',
@@ -75,8 +87,12 @@
       viewPubs: 'Publikationen ansehen', email: 'E-Mail', scholar: 'Google Scholar', interests: 'Forschungsinteressen',
       int1: 'Mechanismen der plastischen Metallumformung', int2: 'Ultraschall-Metallschweißen', int3: 'Ultraschallgestützte metallische Festkörper-Additivfertigung',
       selected: 'Ausgewählte Publikation', details: 'Artikeldetails', aam: 'AAM-PDF', publisher: 'Verlagsversion',
-      pubEye: 'Forschungsergebnisse', pubHeading: 'Publikationen', pubIntro: 'Begutachtete Publikationen und frei zugängliche Autorenmanuskripte.',
-      detailsAbstract: 'Details und Abstract', downloadAam: 'AAM herunterladen',
+      pubEye: 'Forschungsergebnisse', pubHeading: 'Publikationen', pubIntro: 'Begutachtete Publikationen. Open-Access-Dateien werden nur bei eindeutigem Weiterverbreitungsrecht bereitgestellt.',
+      detailsAbstract: 'Details und Abstract', downloadAam: 'AAM herunterladen', openAccessPdf: 'Open-Access-PDF',
+      articleEyeJournal: 'Zeitschriftenartikel', articleEyeOpenAccess: 'Open-Access-Zeitschriftenartikel', downloadOpenAccessPdf: 'Open-Access-PDF herunterladen',
+      versionTextCcBy: 'Open-Access-Verlagsfassung (CC BY 4.0)', versionTextCcByNcNd: 'Open-Access-Verlagsfassung (CC BY-NC-ND 4.0)',
+      versionNoticeCcBy: '<strong>Versionshinweis.</strong> Die unveränderte Verlagsfassung wird unter der Lizenz <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> weiterverbreitet.',
+      versionNoticeCcByNcNd: '<strong>Versionshinweis.</strong> Die unveränderte Verlagsfassung wird für nichtkommerzielle Zwecke unter der Lizenz <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> weiterverbreitet.',
       articleEye: 'Author Accepted Manuscript', affiliations: 'Affiliationen', journal: 'Zeitschrift:', publication: 'Publikation:', version: 'Version:',
       versionText: 'Author Accepted Manuscript (begutachtet und akzeptiert, vor Copyediting und Satz durch den Verlag)',
       downloadPdf: 'AAM-PDF herunterladen', publisherRecord: 'Offizielle Verlagsversion',
@@ -96,8 +112,12 @@
       viewPubs: 'Voir les publications', email: 'E-mail', scholar: 'Google Scholar', interests: 'Axes de recherche',
       int1: 'Mécanismes de formage plastique des métaux', int2: 'Soudage ultrasonore des métaux', int3: 'Fabrication additive métallique à l’état solide assistée par ultrasons',
       selected: 'Publication sélectionnée', details: 'Détails de l’article', aam: 'PDF AAM', publisher: 'Version éditeur',
-      pubEye: 'Production scientifique', pubHeading: 'Publications', pubIntro: 'Publications évaluées par les pairs et manuscrits auteur accessibles librement.',
-      detailsAbstract: 'Détails et résumé', downloadAam: 'Télécharger l’AAM',
+      pubEye: 'Production scientifique', pubHeading: 'Publications', pubIntro: 'Publications évaluées par les pairs. Les fichiers en libre accès ne sont hébergés que lorsque les droits de redistribution sont clairement établis.',
+      detailsAbstract: 'Détails et résumé', downloadAam: 'Télécharger l’AAM', openAccessPdf: 'PDF en libre accès',
+      articleEyeJournal: 'Article de revue', articleEyeOpenAccess: 'Article de revue en libre accès', downloadOpenAccessPdf: 'Télécharger le PDF en libre accès',
+      versionTextCcBy: 'Version officielle en libre accès (CC BY 4.0)', versionTextCcByNcNd: 'Version officielle en libre accès (CC BY-NC-ND 4.0)',
+      versionNoticeCcBy: '<strong>Note sur la version.</strong> Cette version officielle inchangée est redistribuée sous licence <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.',
+      versionNoticeCcByNcNd: '<strong>Note sur la version.</strong> Cette version officielle inchangée est redistribuée à des fins non commerciales sous licence <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.',
       articleEye: 'Manuscrit accepté par l’auteur', affiliations: 'Affiliations', journal: 'Revue :', publication: 'Publication :', version: 'Version :',
       versionText: 'Manuscrit accepté par l’auteur (évalué par les pairs et accepté avant la révision éditoriale et la mise en page par l’éditeur)',
       downloadPdf: 'Télécharger le PDF AAM', publisherRecord: 'Version officielle de l’éditeur',
@@ -112,7 +132,8 @@
     var path = location.pathname.replace(/\/index\.html$/, '/');
     if (path === '/') return 'home';
     if (path === '/publications/') return 'pub';
-    if (path === '/publications/preset-gap-umw/') return 'article';
+    if (path === '/publications/preset-gap-umw/') return 'preset';
+    if (/^\/publications\/[^/]+\/$/.test(path)) return 'article';
     return 'home';
   }
   function get(lang, key) { return (t[lang] && t[lang][key]) || t.en[key] || ''; }
@@ -122,6 +143,10 @@
   function list(selector, lang, keys) {
     var nodes = document.querySelectorAll(selector);
     keys.forEach(function (key, index) { if (nodes[index]) nodes[index].textContent = get(lang, key); });
+  }
+  function translateData(lang) {
+    q('[data-i18n]', function (el) { el.textContent = get(lang, el.getAttribute('data-i18n')); });
+    q('[data-i18n-html]', function (el) { el.innerHTML = get(lang, el.getAttribute('data-i18n-html')); });
   }
   function counter(containerSelector, valueSelector, lang, key) {
     var container = document.querySelector(containerSelector);
@@ -174,7 +199,7 @@
   function publications(lang) {
     text('.page-heading .eyebrow', lang, 'pubEye');
     text('.page-heading h1', lang, 'pubHeading');
-    text('.page-heading p', lang, 'pubIntro');
+    text('.page-heading .page-intro', lang, 'pubIntro');
     text('.inline-links a[href="/publications/preset-gap-umw/"]', lang, 'detailsAbstract');
     text('.inline-links a[href="/publications/preset-gap-umw/aam.pdf"]', lang, 'downloadAam');
   }
@@ -197,10 +222,10 @@
   }
   function apply(lang) {
     var currentPage = page();
-    shared(lang); setMeta(lang, currentPage);
+    shared(lang); translateData(lang); setMeta(lang, currentPage);
     if (currentPage === 'home') home(lang);
     if (currentPage === 'pub') publications(lang);
-    if (currentPage === 'article') article(lang);
+    if (currentPage === 'preset') article(lang);
     try { localStorage.setItem('siteLanguage', lang); } catch (error) {}
   }
   function preferred() {

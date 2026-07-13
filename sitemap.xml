@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://Zhou-Haiyang.github.io/</loc></url>
-  <url><loc>https://Zhou-Haiyang.github.io/publications/</loc></url>
-  <url><loc>https://Zhou-Haiyang.github.io/publications/preset-gap-umw/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/preset-gap-umw/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/cnn-lstm-energy-pile/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/crconi-stainless-steel-laser-weld/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/resilient-shield-tunnel-construction/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/al-alloy-micropillar-size-effect/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/hybrid-laser-weld-crystal-plasticity/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/hybrid-laser-weld-filler-materials/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/ultrasonic-vibration-metal-plasticity/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/misaligned-electrode-degradation/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/ultrasonic-assisted-compression-al-ti/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/electromagnetic-bulging-ti64/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/electromagnetic-forming-3d-driver/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/ti64-magnetic-pulse-formability/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/ti64-driver-plate-emf/</loc></url>
+  <url><loc>https://zhou-haiyang.github.io/publications/tc4-electromagnetic-bulging/</loc></url>
 </urlset>

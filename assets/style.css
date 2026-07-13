@@ -33,7 +33,7 @@ nav a[aria-current="page"] { color: var(--ink); font-weight: 700; }
 main { padding-block: 3.5rem 5rem; }
 .hero { padding-block: 2rem 3.5rem; }
 .eyebrow { margin: 0 0 .6rem; color: var(--accent); font-weight: 750; letter-spacing: .08em; text-transform: uppercase; font-size: .78rem; }
-h1, h2, h3 { line-height: 1.2; letter-spacing: -.02em; }
+h1, h2, h3 { line-height: 1.2; letter-spacing: 0; }
 h1 { font-size: clamp(2.1rem, 5vw, 3.7rem); margin: .2rem 0 1rem; }
 h2 { margin-top: 2.6rem; font-size: 1.55rem; }
 h3 { font-size: 1.2rem; }
@@ -44,11 +44,17 @@ h3 { font-size: 1.2rem; }
 .button.secondary { background: #fff; color: var(--accent); }
 .publication-card { border: 1px solid var(--line); border-radius: 8px; padding: 1.35rem 1.5rem; margin-block: 1rem; }
 .publication-card h2, .publication-card h3 { margin: .2rem 0 .7rem; }
+.publication-card h3 { font-size: 1.15rem; line-height: 1.35; }
+.publication-card h3 a, .publication-card .bibliography a { overflow-wrap: anywhere; }
+.publication-authors, .bibliography { margin-block: .55rem; }
+.publication-year-group { margin-top: 2.8rem; }
+.publication-year-heading { margin: 0 0 1rem; padding-bottom: .45rem; border-bottom: 1px solid var(--line); color: var(--accent); }
 .year { color: var(--accent); font-weight: 800; margin: 0; }
 .tag-list { display: flex; flex-wrap: wrap; gap: .65rem; padding: 0; list-style: none; }
 .tag-list li { background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: .35rem .75rem; }
 .article-page { max-width: 850px; }
 .article-page h1 { font-size: clamp(2rem, 4.4vw, 3.15rem); }
+.article-page h1, .article-page a { overflow-wrap: anywhere; }
 .authors { font-size: 1.12rem; color: var(--muted); }
 .affiliations { color: var(--muted); padding-left: 1.4rem; }
 .article-meta { border-block: 1px solid var(--line); margin: 2rem 0; padding: 1rem 0; }
