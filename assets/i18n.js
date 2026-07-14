@@ -11,7 +11,10 @@
       focus: 'Research focuses on mechanisms of metal plastic forming, ultrasonic metal welding, and ultrasonic metal solid-state additive manufacturing.',
       viewPubs: 'View publications', email: 'Email', scholar: 'Google Scholar', interests: 'Research interests',
       int1: 'Mechanisms of metal plastic forming', int2: 'Ultrasonic metal welding', int3: 'Ultrasonic metal solid-state additive manufacturing',
-      selected: 'Selected publication', details: 'Article details', aam: 'AAM PDF', publisher: 'Publisher version',
+      selected: 'Latest publication', details: 'Article details', aam: 'AAM PDF', publisher: 'Publisher version',
+      graphicalAbstract: 'Graphical abstract.', graphicalAbstractCaption: 'The study frames the welding dilemma, introduces preset-gap scheduling, and identifies a robust joint window.',
+      latestVisualAlt: 'Graphical abstract showing the welding dilemma, preset-gap scheduling procedure, and robust joint window for ultrasonic welding of Invar 36',
+      researchVisuals: 'Research at a glance', originalVisual: 'Original visual summary.', authorGraphicalAbstract: 'Author graphical abstract.',
       pubEye: 'Research output', pubHeading: 'Publications', pubIntro: 'Peer-reviewed publications. Open-access files are hosted only where redistribution rights are clear.',
       detailsAbstract: 'Details and abstract', downloadAam: 'Download AAM', openAccessPdf: 'Open-access PDF',
       articleEyeJournal: 'Journal article', articleEyeOpenAccess: 'Open-access journal article', downloadOpenAccessPdf: 'Download open-access PDF',
@@ -36,7 +39,10 @@
       focus: '研究方向聚焦于金属塑性成形机理、超声金属焊接以及超声金属固态增材制造。',
       viewPubs: '查看论文', email: '电子邮件', scholar: 'Google Scholar', interests: '研究方向',
       int1: '金属塑性成形机理', int2: '超声金属焊接', int3: '超声金属固态增材制造',
-      selected: '代表性论文', details: '论文详情', aam: '作者接受稿 PDF', publisher: '出版社版本',
+      selected: '最新论文', details: '论文详情', aam: '作者接受稿 PDF', publisher: '出版社版本',
+      graphicalAbstract: '图形摘要。', graphicalAbstractCaption: '该研究阐明焊接困境，提出预设间隙调控方法，并识别出稳健接头窗口。',
+      latestVisualAlt: '展示 Invar 36 超声焊接困境、预设间隙调控流程和稳健接头窗口的图形摘要',
+      researchVisuals: '研究一览', originalVisual: '原创视觉摘要。', authorGraphicalAbstract: '作者图形摘要。',
       pubEye: '科研成果', pubHeading: '论文', pubIntro: '同行评议论文。仅在再发布权利明确时提供开放获取文件。',
       detailsAbstract: '详情与摘要', downloadAam: '下载作者接受稿', openAccessPdf: '开放获取 PDF',
       articleEyeJournal: '期刊论文', articleEyeOpenAccess: '开放获取期刊论文', downloadOpenAccessPdf: '下载开放获取 PDF',
@@ -61,7 +67,10 @@
       focus: '研究対象は、金属塑性加工のメカニズム、超音波金属溶接、超音波金属固相積層造形です。',
       viewPubs: '研究業績を見る', email: 'メール', scholar: 'Google Scholar', interests: '研究分野',
       int1: '金属塑性加工のメカニズム', int2: '超音波金属溶接', int3: '超音波金属固相積層造形',
-      selected: '主要論文', details: '論文詳細', aam: '著者受理稿 PDF', publisher: '出版社版',
+      selected: '最新論文', details: '論文詳細', aam: '著者受理稿 PDF', publisher: '出版社版',
+      graphicalAbstract: 'グラフィカルアブストラクト。', graphicalAbstractCaption: '本研究は溶接のジレンマを整理し、プリセット間隙制御を導入して、安定した接合ウィンドウを示します。',
+      latestVisualAlt: 'Invar 36 の超音波溶接における課題、プリセット間隙制御の手順、安定した接合ウィンドウを示す図',
+      researchVisuals: '研究概要', originalVisual: 'オリジナルのビジュアル要約。', authorGraphicalAbstract: '著者作成のグラフィカルアブストラクト。',
       pubEye: '研究成果', pubHeading: '研究業績', pubIntro: '査読済み論文。再配布権が明確な場合にのみオープンアクセスファイルを掲載しています。',
       detailsAbstract: '詳細と要旨', downloadAam: '著者受理稿をダウンロード', openAccessPdf: 'オープンアクセス PDF',
       articleEyeJournal: '学術誌論文', articleEyeOpenAccess: 'オープンアクセス論文', downloadOpenAccessPdf: 'オープンアクセス PDF をダウンロード',
@@ -86,7 +95,10 @@
       focus: 'Die Forschung konzentriert sich auf Mechanismen der plastischen Metallumformung, das Ultraschall-Metallschweißen und die ultraschallgestützte metallische Festkörper-Additivfertigung.',
       viewPubs: 'Publikationen ansehen', email: 'E-Mail', scholar: 'Google Scholar', interests: 'Forschungsinteressen',
       int1: 'Mechanismen der plastischen Metallumformung', int2: 'Ultraschall-Metallschweißen', int3: 'Ultraschallgestützte metallische Festkörper-Additivfertigung',
-      selected: 'Ausgewählte Publikation', details: 'Artikeldetails', aam: 'AAM-PDF', publisher: 'Verlagsversion',
+      selected: 'Neueste Publikation', details: 'Artikeldetails', aam: 'AAM-PDF', publisher: 'Verlagsversion',
+      graphicalAbstract: 'Grafische Zusammenfassung.', graphicalAbstractCaption: 'Die Studie beschreibt das Schweißdilemma, führt die Preset-Spaltsteuerung ein und identifiziert ein robustes Verbindungsfenster.',
+      latestVisualAlt: 'Grafische Zusammenfassung des Schweißdilemmas, der Preset-Spaltsteuerung und des robusten Verbindungsfensters beim Ultraschallschweißen von Invar 36',
+      researchVisuals: 'Forschung auf einen Blick', originalVisual: 'Originale visuelle Zusammenfassung.', authorGraphicalAbstract: 'Grafische Zusammenfassung der Autoren.',
       pubEye: 'Forschungsergebnisse', pubHeading: 'Publikationen', pubIntro: 'Begutachtete Publikationen. Open-Access-Dateien werden nur bei eindeutigem Weiterverbreitungsrecht bereitgestellt.',
       detailsAbstract: 'Details und Abstract', downloadAam: 'AAM herunterladen', openAccessPdf: 'Open-Access-PDF',
       articleEyeJournal: 'Zeitschriftenartikel', articleEyeOpenAccess: 'Open-Access-Zeitschriftenartikel', downloadOpenAccessPdf: 'Open-Access-PDF herunterladen',
@@ -111,7 +123,10 @@
       focus: 'Ses recherches portent sur les mécanismes de formage plastique des métaux, le soudage ultrasonore des métaux et la fabrication additive métallique à l’état solide assistée par ultrasons.',
       viewPubs: 'Voir les publications', email: 'E-mail', scholar: 'Google Scholar', interests: 'Axes de recherche',
       int1: 'Mécanismes de formage plastique des métaux', int2: 'Soudage ultrasonore des métaux', int3: 'Fabrication additive métallique à l’état solide assistée par ultrasons',
-      selected: 'Publication sélectionnée', details: 'Détails de l’article', aam: 'PDF AAM', publisher: 'Version éditeur',
+      selected: 'Publication la plus récente', details: 'Détails de l’article', aam: 'PDF AAM', publisher: 'Version éditeur',
+      graphicalAbstract: 'Résumé graphique.', graphicalAbstractCaption: 'L’étude présente le dilemme du soudage, introduit le pilotage par écart prédéfini et identifie une fenêtre d’assemblage robuste.',
+      latestVisualAlt: 'Résumé graphique du dilemme du soudage, de la procédure de pilotage par écart prédéfini et de la fenêtre d’assemblage robuste pour le soudage ultrasonore de l’Invar 36',
+      researchVisuals: 'La recherche en un coup d’œil', originalVisual: 'Résumé visuel original.', authorGraphicalAbstract: 'Résumé graphique des auteurs.',
       pubEye: 'Production scientifique', pubHeading: 'Publications', pubIntro: 'Publications évaluées par les pairs. Les fichiers en libre accès ne sont hébergés que lorsque les droits de redistribution sont clairement établis.',
       detailsAbstract: 'Détails et résumé', downloadAam: 'Télécharger l’AAM', openAccessPdf: 'PDF en libre accès',
       articleEyeJournal: 'Article de revue', articleEyeOpenAccess: 'Article de revue en libre accès', downloadOpenAccessPdf: 'Télécharger le PDF en libre accès',
@@ -147,6 +162,7 @@
   function translateData(lang) {
     q('[data-i18n]', function (el) { el.textContent = get(lang, el.getAttribute('data-i18n')); });
     q('[data-i18n-html]', function (el) { el.innerHTML = get(lang, el.getAttribute('data-i18n-html')); });
+    q('[data-i18n-alt]', function (el) { el.setAttribute('alt', get(lang, el.getAttribute('data-i18n-alt'))); });
   }
   function counter(containerSelector, valueSelector, lang, key) {
     var container = document.querySelector(containerSelector);
@@ -189,9 +205,9 @@
     text('.hero .actions a[href="/publications/"]', lang, 'viewPubs');
     text('.hero .actions a[href^="mailto:"]', lang, 'email');
     text('.hero .actions a[href*="scholar.google.com"]', lang, 'scholar');
-    text('main > section:nth-of-type(2) h2', lang, 'interests');
-    list('main > section:nth-of-type(2) .tag-list li', lang, ['int1', 'int2', 'int3']);
-    text('main > section:nth-of-type(3) h2', lang, 'selected');
+    text('.research-interests h2', lang, 'interests');
+    list('.research-interests .tag-list li', lang, ['int1', 'int2', 'int3']);
+    text('#latest-publication-heading', lang, 'selected');
     text('.inline-links a[href="/publications/preset-gap-umw/"]', lang, 'details');
     text('.inline-links a[href="/publications/preset-gap-umw/aam.pdf"]', lang, 'aam');
     text('.inline-links a[href^="https://doi.org/"]', lang, 'publisher');
@@ -214,11 +230,6 @@
     text('.prominent-actions a[href="aam.pdf"]', lang, 'downloadPdf');
     text('.prominent-actions a[href^="https://doi.org/"]', lang, 'publisherRecord');
     html('.version-note', lang, 'versionNotice');
-    text('.article-page section:nth-of-type(2) h2', lang, 'abstract');
-    text('.article-page section:nth-of-type(3) h2', lang, 'keywords');
-    text('.article-page section:nth-of-type(4) h2', lang, 'broader');
-    list('.article-page section:nth-of-type(4) p', lang, ['broader1', 'broader2']);
-    text('.article-page section:nth-of-type(5) h2', lang, 'citation');
   }
   function apply(lang) {
     var currentPage = page();

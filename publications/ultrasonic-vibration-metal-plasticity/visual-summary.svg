@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Ultrasonic vibration changes metal plasticity</title>
+  <desc id="desc">Ultrasonic-assisted compression lowers flow stress, with amplitude and frequency controlling the softening and residual response of aluminum and titanium.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="context-stroke"/>
+    </marker>
+    <style>
+      text { font-family: Arial, "Noto Sans SC", "Microsoft YaHei", sans-serif; letter-spacing: 0; }
+      .kicker { font-size: 16px; font-weight: 700; }
+      .title { font-size: 29px; font-weight: 750; fill: #17231f; }
+      .panel-title { font-size: 18px; font-weight: 700; }
+      .label { font-size: 18px; fill: #17231f; }
+      .small { font-size: 15px; fill: #60706a; }
+      .micro { font-size: 13px; fill: #60706a; }
+      .strong { font-weight: 700; }
+      .metric { font-size: 27px; font-weight: 750; fill: #174a3a; }
+    </style>
+  </defs>
+  <rect width="1200" height="675" fill="#f4f8f6"/>
+  <rect x="26" y="26" width="1148" height="623" rx="8" fill="#ffffff" stroke="#cfdad6" stroke-width="2"/>
+  <text x="56" y="62" class-="kicker" fill="#16827c">ALUMINIUM + TITANIUM COMPRESSION</text>
+  <text x="56" y="103" class-="title"><tspan x="56" dy="0">Ultrasonic vibration changes metal plasticity</tspan></text>
+  <line x1="56" y1="142" x2="1144" y2="142" stroke="#cfdad6" stroke-width="2"/>
+  <g transform="translate(0 0)"><rect x="55" y="185" width="475" height="380" fill="#ffffff" stroke="#cfdad6" rx="6" stroke-width="2"/><rect x="55" y="185" width="8" height="380" fill="#16827c" stroke="#16827c" rx="4" stroke-width="0"/><text x="81" y="219" class-="panel-title" fill="#16827c">ULTRASONIC COMPRESSION</text><rect x="165" y="235" width="255" height="30" fill="#81939b" stroke="#17231f" rx="2" stroke-width="2"/><rect x="235" y="268" width="115" height="180" fill="#d6b779" stroke="#17231f" rx="5" stroke-width="2"/><rect x="165" y="451" width="255" height="30" fill="#81939b" stroke="#17231f" rx="2" stroke-width="2"/><line x1="292" y1="200" x2="292" y2="230" stroke="#cc624f" stroke-width="6" marker-end="url(#arrow)"/><path d="M 160 350 q 18 -22 36 0 t 36 0 t 36 0 t 36 0 t 36 0 t 36 0" fill="none" stroke="#16827c" stroke-width="5"/><text x="292" y="515" class-="small strong" text-anchor="middle" fill="#16827c">20 / 30 / 40 kHz</text><text x="292" y="542" class-="small" text-anchor="middle">adjustable amplitude</text><rect x="565" y="185" width="580" height="380" fill="#ffffff" stroke="#cfdad6" rx="6" stroke-width="2"/><rect x="565" y="185" width="8" height="380" fill="#174a3a" stroke="#174a3a" rx="4" stroke-width="0"/><text x="591" y="219" class-="panel-title" fill="#174a3a">MECHANICAL RESPONSE</text><line x1="625" y1="475" x2="1085" y2="475" stroke="#cfdad6" stroke-width="3"/><line x1="625" y1="475" x2="625" y2="250" stroke="#cfdad6" stroke-width="3"/><path d="M 635 445 C 720 410, 760 355, 850 320 S 990 275, 1070 255" fill="none" stroke="#81939b" stroke-width="5"/><path d="M 635 445 C 720 425, 760 395, 850 370 S 990 335, 1070 315" fill="none" stroke="#16827c" stroke-width="6"/><text x="965" y="270" class-="small strong" fill="#81939b">without vibration</text><text x="965" y="340" class-="small strong" fill="#16827c">with ultrasound</text><line x1="790" y1="335" x2="790" y2="390" stroke="#cc624f" stroke-width="4" marker-end="url(#arrow)"/><text x="805" y="365" class-="small strong" fill="#cc624f">flow stress ↓</text><rect x="650" y="510" width="205" height="38" fill="#e6f4f1" stroke="none" rx="19" stroke-width="0"/><text x="752.5" y="536" class-="small strong" text-anchor="middle" fill="#16827c">AMPLITUDE ↑</text><rect x="875" y="510" width="205" height="38" fill="#fff3dd" stroke="none" rx="19" stroke-width="0"/><text x="977.5" y="536" class-="small strong" text-anchor="middle" fill="#d99a32">FREQUENCY ↑</text></g>
+</svg>

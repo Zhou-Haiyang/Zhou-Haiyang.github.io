@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Strength-ductility synergy in a dissimilar joint</title>
+  <desc id="desc">A laser joins CrCoNi medium-entropy alloy to stainless steel, producing an FeCrCoNi fusion zone with multiple deformation mechanisms.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="context-stroke"/>
+    </marker>
+    <style>
+      text { font-family: Arial, "Noto Sans SC", "Microsoft YaHei", sans-serif; letter-spacing: 0; }
+      .kicker { font-size: 16px; font-weight: 700; }
+      .title { font-size: 29px; font-weight: 750; fill: #17231f; }
+      .panel-title { font-size: 18px; font-weight: 700; }
+      .label { font-size: 18px; fill: #17231f; }
+      .small { font-size: 15px; fill: #60706a; }
+      .micro { font-size: 13px; fill: #60706a; }
+      .strong { font-weight: 700; }
+      .metric { font-size: 27px; font-weight: 750; fill: #174a3a; }
+    </style>
+  </defs>
+  <rect width="1200" height="675" fill="#f4f8f6"/>
+  <rect x="26" y="26" width="1148" height="623" rx="8" fill="#ffffff" stroke="#cfdad6" stroke-width="2"/>
+  <text x="56" y="62" class-="kicker" fill="#16827c">LASER WELDING · MEDIUM-ENTROPY ALLOY</text>
+  <text x="56" y="103" class-="title"><tspan x="56" dy="0">Strength-ductility synergy in a dissimilar joint</tspan></text>
+  <line x1="56" y1="142" x2="1144" y2="142" stroke="#cfdad6" stroke-width="2"/>
+  <g transform="translate(0 0)"><rect x="55" y="185" width="700" height="380" fill="#ffffff" stroke="#cfdad6" rx="6" stroke-width="2"/><rect x="55" y="185" width="8" height="380" fill="#cc624f" stroke="#cc624f" rx="4" stroke-width="0"/><text x="81" y="219" class-="panel-title" fill="#cc624f">DISSIMILAR LASER JOINT</text><rect x="95" y="350" width="280" height="82" fill="#b7c7ce" stroke="#17231f" rx="2" stroke-width="2"/><rect x="435" y="350" width="280" height="82" fill="#d6b779" stroke="#17231f" rx="2" stroke-width="2"/><text x="235" y="402" class-="panel-title" text-anchor="middle" fill="#17231f">SS 301L</text><text x="575" y="402" class-="panel-title" text-anchor="middle" fill="#17231f">CrCoNi</text><polygon points="375,350 435,350 465,432 345,432" fill="#d78267" stroke="#17231f" stroke-width="2"/><text x="405" y="460" class-="small strong" text-anchor="middle" fill="#cc624f">FeCrCoNi fusion zone</text><polygon points="385,210 425,210 455,340 355,340" fill="#fde3a7" stroke="#d99a32" stroke-width="3"/><text x="405" y="202" class-="small strong" text-anchor="middle" fill="#d99a32">LASER</text><line x1="120" y1="320" x2="85" y2="320" stroke="#367f9d" stroke-width="5" marker-end="url(#arrow)"/><line x1="690" y1="320" x2="725" y2="320" stroke="#367f9d" stroke-width="5" marker-end="url(#arrow)"/><rect x="790" y="185" width="355" height="380" fill="#ffffff" stroke="#cfdad6" rx="6" stroke-width="2"/><rect x="790" y="185" width="8" height="380" fill="#174a3a" stroke="#174a3a" rx="4" stroke-width="0"/><text x="816" y="219" class-="panel-title" fill="#174a3a">WHY IT PERFORMS</text><circle cx="875" cy="315" r="61" fill="#ffffff" stroke="#17231f" stroke-width="3"/><polygon points="875,315 818,303 855,259" fill="#d8eee8" stroke="#ffffff" stroke-width="2"/><polygon points="875,315 855,259 910,262" fill="#9ed2c8" stroke="#ffffff" stroke-width="2"/><polygon points="875,315 910,262 932,320" fill="#efc98a" stroke="#ffffff" stroke-width="2"/><polygon points="875,315 932,320 895,371" fill="#d99078" stroke="#ffffff" stroke-width="2"/><polygon points="875,315 895,371 839,368" fill="#d8eee8" stroke="#ffffff" stroke-width="2"/><polygon points="875,315 839,368 818,303" fill="#9ed2c8" stroke="#ffffff" stroke-width="2"/><circle cx="875" cy="315" r="61" fill="none" stroke="#17231f" stroke-width="3"/><line x1="818" y1="285" x2="857" y2="344" stroke="#cc624f" stroke-width="2"/><line x1="836" y1="285" x2="875" y2="344" stroke="#cc624f" stroke-width="2"/><line x1="856" y1="285" x2="895" y2="344" stroke="#cc624f" stroke-width="2"/><line x1="873" y1="285" x2="912" y2="344" stroke="#cc624f" stroke-width="2"/><text x="970" y="260" class-="small strong" fill="#17231f"><tspan x="970" dy="0">Dislocations</tspan><tspan x="970" dy="28">stacking faults</tspan><tspan x="970" dy="28">deformation twins</tspan></text><line x1="820" y1="420" x2="1115" y2="420" stroke="#cfdad6" stroke-width="3"/><text x="825" y="460" class-="small strong" fill="#174a3a">STRENGTH</text><line x1="920" y1="454" x2="1095" y2="454" stroke="#174a3a" stroke-width="8" marker-end="url(#arrow)"/><text x="825" y="510" class-="small strong" fill="#367f9d">DUCTILITY</text><line x1="920" y1="504" x2="1095" y2="504" stroke="#367f9d" stroke-width="8" marker-end="url(#arrow)"/></g>
+</svg>

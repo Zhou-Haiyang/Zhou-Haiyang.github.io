@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Electrode misalignment accelerates degradation</title>
+  <desc id="desc">Misaligned electrodes create asymmetric pressure and heat, while displacement peaks provide an in-process signal for electrode degradation and life.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="context-stroke"/>
+    </marker>
+    <style>
+      text { font-family: Arial, "Noto Sans SC", "Microsoft YaHei", sans-serif; letter-spacing: 0; }
+      .kicker { font-size: 16px; font-weight: 700; }
+      .title { font-size: 29px; font-weight: 750; fill: #17231f; }
+      .panel-title { font-size: 18px; font-weight: 700; }
+      .label { font-size: 18px; fill: #17231f; }
+      .small { font-size: 15px; fill: #60706a; }
+      .micro { font-size: 13px; fill: #60706a; }
+      .strong { font-weight: 700; }
+      .metric { font-size: 27px; font-weight: 750; fill: #174a3a; }
+    </style>
+  </defs>
+  <rect width="1200" height="675" fill="#f4f8f6"/>
+  <rect x="26" y="26" width="1148" height="623" rx="8" fill="#ffffff" stroke="#cfdad6" stroke-width="2"/>
+  <text x="56" y="62" class-="kicker" fill="#16827c">RESISTANCE SPOT WELDING · GALVANNEALED STEEL</text>
+  <text x="56" y="103" class-="title"><tspan x="56" dy="0">Electrode misalignment accelerates degradation</tspan></text>
+  <line x1="56" y1="142" x2="1144" y2="142" stroke="#cfdad6" stroke-width="2"/>
+  <g transform="translate(0 0)"><rect x="55" y="185" width="675" height="380" fill="#ffffff" stroke="#cfdad6" rx="6" stroke-width="2"/><rect x="55" y="185" width="8" height="380" fill="#cc624f" stroke="#cc624f" rx="4" stroke-width="0"/><text x="81" y="219" class-="panel-title" fill="#cc624f">MISALIGNED SPOT WELD</text><rect x="210" y="210" width="120" height="145" fill="#b87354" stroke="#17231f" rx="48" stroke-width="2"/><rect x="415" y="430" width="120" height="110" fill="#b87354" stroke="#17231f" rx="42" stroke-width="2"/><rect x="125" y="355" width="490" height="26" fill="#b9c6cb" stroke="#17231f" rx="2" stroke-width="2"/><rect x="125" y="383" width="490" height="26" fill="#d7c78c" stroke="#17231f" rx="2" stroke-width="2"/><ellipse cx="372" cy="382" rx="74" ry="36" fill="#d98e69" stroke="#cc624f" stroke-width="4"/><line x1="270" y1="320" x2="365" y2="355" stroke="#cc624f" stroke-width="5" marker-end="url(#arrow)"/><line x1="475" y1="444" x2="385" y2="410" stroke="#cc624f" stroke-width="5" marker-end="url(#arrow)"/><path d="M 250 330 q 55 -36 110 0" fill="none" stroke="#d99a32" stroke-width="4"/><text x="420" y="255" class-="small strong" fill="#cc624f">asymmetric pressure</text><text x="420" y="286" class-="small" fill="#60706a">localized heat + wear</text><circle cx="265" cy="330" r="15" fill="#cc624f" stroke="#ffffff" stroke-width="2"/><text x="265" y="336" class-="small strong" text-anchor="middle" fill="#ffffff">!</text><rect x="765" y="185" width="380" height="380" fill="#ffffff" stroke="#cfdad6" rx="6" stroke-width="2"/><rect x="765" y="185" width="8" height="380" fill="#174a3a" stroke="#174a3a" rx="4" stroke-width="0"/><text x="791" y="219" class-="panel-title" fill="#174a3a">LIFE MONITORING</text><line x1="820" y1="485" x2="1100" y2="485" stroke="#cfdad6" stroke-width="3"/><line x1="820" y1="485" x2="820" y2="255" stroke="#cfdad6" stroke-width="3"/><path d="M 830 455 C 880 445, 900 430, 930 398 S 980 375, 1000 335 S 1050 300, 1090 245" fill="none" stroke="#16827c" stroke-width="5"/><line x1="1015" y1="245" x2="1015" y2="485" stroke="#cc624f" stroke-width="3" stroke-dasharray="9 7"/><text x="1030" y="275" class-="small strong" fill="#cc624f">pitting onset</text><text x="960" y="525" class-="small" text-anchor="middle">electrode displacement peak</text><rect x="820" y="205" width="270" height="38" fill="#e7f2ed" stroke="none" rx="19" stroke-width="0"/><text x="955.0" y="231" class-="small strong" text-anchor="middle" fill="#174a3a">PREDICT ELECTRODE LIFE</text></g>
+</svg>

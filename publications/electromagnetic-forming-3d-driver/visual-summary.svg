@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">3D simulation for low-conductivity metal forming</title>
+  <desc id="desc">A four-stage numerical workflow transfers electromagnetic forces from ANSYS to explicit mechanical simulation for driver-assisted impact forming.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="context-stroke"/>
+    </marker>
+    <style>
+      text { font-family: Arial, "Noto Sans SC", "Microsoft YaHei", sans-serif; letter-spacing: 0; }
+      .kicker { font-size: 16px; font-weight: 700; }
+      .title { font-size: 29px; font-weight: 750; fill: #17231f; }
+      .panel-title { font-size: 18px; font-weight: 700; }
+      .label { font-size: 18px; fill: #17231f; }
+      .small { font-size: 15px; fill: #60706a; }
+      .micro { font-size: 13px; fill: #60706a; }
+      .strong { font-weight: 700; }
+      .metric { font-size: 27px; font-weight: 750; fill: #174a3a; }
+    </style>
+  </defs>
+  <rect width="1200" height="675" fill="#f4f8f6"/>
+  <rect x="26" y="26" width="1148" height="623" rx="8" fill="#ffffff" stroke="#cfdad6" stroke-width="2"/>
+  <text x="56" y="62" class-="kicker" fill="#16827c">ELECTROMAGNETIC FORMING WITH A DRIVER</text>
+  <text x="56" y="103" class-="title"><tspan x="56" dy="0">3D simulation for low-conductivity metal forming</tspan></text>
+  <line x1="56" y1="142" x2="1144" y2="142" stroke="#cfdad6" stroke-width="2"/>
+  <g transform="translate(0 0)"><rect x="55" y="210" width="230" height="315" fill="#ffffff" stroke="#367f9d" rx="6" stroke-width="3"/><circle cx="97" cy="252" r="24" fill="#367f9d" stroke="#367f9d" stroke-width="2"/><text x="97" y="258" class-="small strong" text-anchor="middle" fill="#ffffff">01</text><text x="80" y="310" class-="panel-title" fill="#367f9d">3D EM FIELD</text><text x="80" y="340" class-="small">ANSYS / EMAG</text><ellipse cx="170" cy="425" rx="66" ry="22" fill="none" stroke="#367f9d" stroke-width="4"/><ellipse cx="170" cy="425" rx="48" ry="22" fill="none" stroke="#367f9d" stroke-width="4"/><ellipse cx="170" cy="425" rx="30" ry="22" fill="none" stroke="#367f9d" stroke-width="4"/><rect x="335" y="210" width="230" height="315" fill="#ffffff" stroke="#d99a32" rx="6" stroke-width="3"/><circle cx="377" cy="252" r="24" fill="#d99a32" stroke="#d99a32" stroke-width="2"/><text x="377" y="258" class-="small strong" text-anchor="middle" fill="#ffffff">02</text><text x="360" y="310" class-="panel-title" fill="#d99a32">FORCE TRANSFER</text><text x="360" y="340" class-="small">driver → blank</text><rect x="380" y="395" width="140" height="18" fill="#d99a32" stroke="#17231f" rx="1" stroke-width="2"/><rect x="380" y="430" width="140" height="18" fill="#81939b" stroke="#17231f" rx="1" stroke-width="2"/><line x1="450" y1="360" x2="450" y2="388" stroke="#cc624f" stroke-width="5" marker-end="url(#arrow)"/><rect x="615" y="210" width="230" height="315" fill="#ffffff" stroke="#16827c" rx="6" stroke-width="3"/><circle cx="657" cy="252" r="24" fill="#16827c" stroke="#16827c" stroke-width="2"/><text x="657" y="258" class-="small strong" text-anchor="middle" fill="#ffffff">03</text><text x="640" y="310" class-="panel-title" fill="#16827c">MECHANICS</text><text x="640" y="340" class-="small">ABAQUS / Explicit</text><rect x="660" y="390" width="140" height="80" fill="#e6f4f1" stroke="#16827c" rx="4" stroke-width="2"/><line x1="680" y1="410" x2="780" y2="410" stroke="#16827c" stroke-width="2"/><line x1="680" y1="425" x2="780" y2="425" stroke="#16827c" stroke-width="2"/><line x1="680" y1="440" x2="780" y2="440" stroke="#16827c" stroke-width="2"/><line x1="680" y1="455" x2="780" y2="455" stroke="#16827c" stroke-width="2"/><rect x="895" y="210" width="230" height="315" fill="#ffffff" stroke="#174a3a" rx="6" stroke-width="3"/><circle cx="937" cy="252" r="24" fill="#174a3a" stroke="#174a3a" stroke-width="2"/><text x="937" y="258" class-="small strong" text-anchor="middle" fill="#ffffff">04</text><text x="920" y="310" class-="panel-title" fill="#174a3a">DEFORMATION</text><text x="920" y="340" class-="small">impact forming</text><path d="M 940 455 C 975 350, 1045 350, 1080 455" fill="#d6b779" stroke="#cc624f" stroke-width="4"/><line x1="300" y1="365" x2="325" y2="365" stroke="#60706a" stroke-width="4" marker-end="url(#arrow)"/><line x1="580" y1="365" x2="605" y2="365" stroke="#60706a" stroke-width="4" marker-end="url(#arrow)"/><line x1="860" y1="365" x2="885" y2="365" stroke="#60706a" stroke-width="4" marker-end="url(#arrow)"/><rect x="345" y="555" width="510" height="38" fill="#f4f8f6" stroke="none" rx="19" stroke-width="0"/><text x="600.0" y="581" class-="small strong" text-anchor="middle" fill="#367f9d">COUPLED ELECTROMAGNETIC-MECHANICAL WORKFLOW</text></g>
+</svg>

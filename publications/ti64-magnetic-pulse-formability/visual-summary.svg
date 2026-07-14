@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Magnetic pulse forming improves Ti-6Al-4V formability</title>
+  <desc id="desc">Magnetic pulse bulging with an aluminum driver increases the forming limit of Ti-6Al-4V compared with quasi-static deformation and changes the fracture response.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="context-stroke"/>
+    </marker>
+    <style>
+      text { font-family: Arial, "Noto Sans SC", "Microsoft YaHei", sans-serif; letter-spacing: 0; }
+      .kicker { font-size: 16px; font-weight: 700; }
+      .title { font-size: 29px; font-weight: 750; fill: #17231f; }
+      .panel-title { font-size: 18px; font-weight: 700; }
+      .label { font-size: 18px; fill: #17231f; }
+      .small { font-size: 15px; fill: #60706a; }
+      .micro { font-size: 13px; fill: #60706a; }
+      .strong { font-weight: 700; }
+      .metric { font-size: 27px; font-weight: 750; fill: #174a3a; }
+    </style>
+  </defs>
+  <rect width="1200" height="675" fill="#f4f8f6"/>
+  <rect x="26" y="26" width="1148" height="623" rx="8" fill="#ffffff" stroke="#cfdad6" stroke-width="2"/>
+  <text x="56" y="62" class-="kicker" fill="#16827c">HIGH-SPEED VERSUS QUASI-STATIC BULGING</text>
+  <text x="56" y="103" class-="title"><tspan x="56" dy="0">Magnetic pulse forming improves Ti-6Al-4V formability</tspan></text>
+  <line x1="56" y1="142" x2="1144" y2="142" stroke="#cfdad6" stroke-width="2"/>
+  <g transform="translate(0 0)"><rect x="55" y="185" width="710" height="380" fill="#ffffff" stroke="#cfdad6" rx="6" stroke-width="2"/><rect x="55" y="185" width="8" height="380" fill="#367f9d" stroke="#367f9d" rx="4" stroke-width="0"/><text x="81" y="219" class-="panel-title" fill="#367f9d">FORMABILITY COMPARISON</text><rect x="95" y="230" width="290" height="285" fill="#ffffff" stroke="#cfdad6" rx="6" stroke-width="2"/><text x="240" y="270" class-="panel-title" text-anchor="middle" fill="#81939b">QUASI-STATIC</text><path d="M 130 455 C 165 350, 315 350, 350 455" fill="#c6d4d9" stroke="#81939b" stroke-width="4"/><line x1="160" y1="330" x2="320" y2="470" stroke="#cc624f" stroke-width="4" stroke-dasharray="10 7"/><text x="240" y="495" class-="small strong" text-anchor="middle" fill="#81939b">baseline</text><rect x="425" y="230" width="300" height="285" fill="#ffffff" stroke="#16827c" rx="6" stroke-width="3"/><text x="575" y="270" class-="panel-title" text-anchor="middle" fill="#16827c">MAGNETIC PULSE</text><path d="M 455 455 C 495 285, 655 285, 695 455" fill="#d6b779" stroke="#cc624f" stroke-width="4"/><ellipse cx="575" cy="480" rx="110" ry="25" fill="none" stroke="#d99a32" stroke-width="4"/><ellipse cx="575" cy="480" rx="82" ry="25" fill="none" stroke="#d99a32" stroke-width="4"/><ellipse cx="575" cy="480" rx="55" ry="25" fill="none" stroke="#d99a32" stroke-width="4"/><text x="575" y="495" class-="small strong" text-anchor="middle" fill="#16827c">high strain rate</text><rect x="800" y="185" width="345" height="380" fill="#ffffff" stroke="#cfdad6" rx="6" stroke-width="2"/><rect x="800" y="185" width="8" height="380" fill="#174a3a" stroke="#174a3a" rx="4" stroke-width="0"/><text x="826" y="219" class-="panel-title" fill="#174a3a">RESULT</text><text x="972" y="295" class-="metric" text-anchor="middle" fill="#174a3a">+24.37%</text><text x="972" y="328" class-="small strong" text-anchor="middle">forming limit</text><line x1="855" y1="390" x2="1090" y2="390" stroke="#cfdad6" stroke-width="3"/><text x="855" y="425" class-="small strong" fill="#367f9d">Ductile</text><text x="855" y="465" class-="small strong" fill="#cc624f">+ shear</text><line x1="945" y1="418" x2="1070" y2="418" stroke="#367f9d" stroke-width="7" marker-end="url(#arrow)"/><line x1="945" y1="458" x2="1070" y2="458" stroke="#cc624f" stroke-width="7" marker-end="url(#arrow)"/><rect x="850" y="510" width="245" height="38" fill="#f4f8f6" stroke="none" rx="19" stroke-width="0"/><text x="972.5" y="536" class-="small strong" text-anchor="middle" fill="#174a3a">Ti-6Al-4V SHEET</text></g>
+</svg>

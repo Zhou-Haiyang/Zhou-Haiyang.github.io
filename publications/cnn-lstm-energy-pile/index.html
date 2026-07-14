@@ -107,6 +107,18 @@
         <a class="button secondary" href="https://doi.org/10.1016/j.energy.2022.126190" data-i18n="publisherRecord">Publisher Version of Record</a>
       </div>
 
+      <section class="research-visuals" aria-labelledby="research-visuals-heading">
+        <h2 id="research-visuals-heading" data-i18n="researchVisuals">Research at a glance</h2>
+        <div class="visual-grid">
+          <figure class="research-figure">
+            <a class="figure-link" href="visual-summary.svg" aria-label="Open full-size visual summary">
+              <img src="visual-summary.svg" width="1200" height="675" loading="lazy" decoding="async" alt="Workflow in which soil temperature field measurements pass through a CNN and LSTM to predict energy-pile outlet water temperature">
+            </a>
+            <figcaption><strong data-i18n="originalVisual">Original visual summary.</strong> Soil-temperature fields supply spatial features to the CNN, while the LSTM carries their temporal evolution into the outlet-temperature prediction.</figcaption>
+          </figure>
+        </div>
+      </section>
+
       <section>
         <h2 data-i18n="abstract">Abstract</h2>
         <p>Energy pile is a novel ground heat exchanger for ground source heat pump (GSHP) systems. Prediction of the energy pile outlet water temperature is essential for the efficient operation of GSHP systems. In this study, by establishing a convolutional neural network (CNN) and long short-term memory (LSTM) hybrid model (CNN-LSTM), the spatial-temporal feature of the soil temperature field (STF) was creatively considered to predict the outlet water temperature. The inlet and outlet water temperatures and the surrounding STF data of the energy pile were obtained through finite element simulation and used as the model training datasets. By building the CNN-LSTM model, the spatial-temporal features in datasets could be extracted, leading to more accurate prediction results than other benchmark models. For instance, the excellent prediction accuracy of CNN-LSTM is reflected by an average R² value of 96.252%, which is higher than the values of the LSTM, CNN, ANN, and SimpleRNN models by 2.326%, 3.527%, 4.585%, and 5.755%, respectively. Furthermore, the influence of different STF datasets on the prediction accuracy was investigated. The corresponding dataset acquisition method based on the optimized sensor arrangement scheme was proposed, which can improve the information extraction performance of the CNN-LSTM model.</p>
