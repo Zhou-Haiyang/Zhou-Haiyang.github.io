@@ -37,7 +37,8 @@ main { padding-block: 3.5rem 5rem; }
 .featured-publication-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; align-items: start; }
 .featured-visual, .research-figure { margin: 0; min-width: 0; }
 .featured-visual a, .figure-link { display: block; }
-.featured-visual img, .research-figure img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: contain; }
+.featured-visual img, .research-figure img { display: block; width: 100%; height: auto; }
+.featured-visual img { aspect-ratio: 16 / 9; object-fit: contain; }
 .graphical-abstract-wide img { aspect-ratio: 6818 / 2727; }
 .featured-visual figcaption, .research-figure figcaption { margin-top: .65rem; color: var(--muted); font-size: .9rem; line-height: 1.5; }
 .featured-visual figcaption strong, .research-figure figcaption strong { color: var(--accent); }
