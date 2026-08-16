@@ -84,6 +84,16 @@ h3 { font-size: 1.2rem; }
 .visitor-stats { display: inline-flex; align-items: center; flex-wrap: wrap; gap: .35rem .75rem; }
 .footer-stat { white-space: nowrap; }
 .page-heading { margin-bottom: 2rem; }
+.cross-material-matrix { margin-top: 2.6rem; }
+.table-scroll { max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin-block: 1rem 1.2rem; }
+.table-scroll:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.applicability-table { width: 100%; min-width: 820px; border-collapse: collapse; font-size: .92rem; line-height: 1.45; }
+.applicability-table caption { caption-side: top; margin-bottom: .6rem; color: var(--muted); text-align: left; }
+.applicability-table th, .applicability-table td { border: 1px solid var(--line); padding: .7rem .75rem; text-align: left; vertical-align: top; }
+.applicability-table thead th { color: #fff; background: var(--accent); }
+.applicability-table tbody th { color: var(--ink); font-weight: 700; }
+.applicability-table tbody tr:nth-child(even) { background: var(--surface); }
+.matrix-scope-note { margin: 1.2rem 0 2rem; padding: 1rem 1.15rem; border-left: 4px solid var(--accent); background: var(--surface); }
 @media (max-width: 780px) {
   .featured-publication-grid { grid-template-columns: 1fr; gap: 1.4rem; }
 }
