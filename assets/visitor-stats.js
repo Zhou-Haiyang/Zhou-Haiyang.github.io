@@ -23,7 +23,7 @@
 
   function valid(data) {
     return data && Number.isSafeInteger(data.site_uv) && data.site_uv >= 0 &&
-      Number.isSafeInteger(data.site_pv) && data.site_pv >= data.site_uv;
+      Number.isSafeInteger(data.site_pv) && data.site_pv >= 0;
   }
 
   function render(data, state) {
